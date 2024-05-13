@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans:wght@400;700&display=swap");
+
+body {
+	color: #1a1a1a;
+	background-color: #dddddd;
+	margin: 0 0;
+	font-family: "PT Sans", sans-serif;
+	font-weight: 400;
+}
+
+h1 {
+	margin: 0.5rem;
+}
+
+button {
+	font-family: "PT Sans", sans-serif;
+	font-weight: 700;
+}
